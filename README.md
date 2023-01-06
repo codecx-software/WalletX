@@ -49,6 +49,8 @@ Future wallet for Android
 
 Download it from Github, Stable release will update soon!
 
+- Download the latest stable version from [GitHub releases](https://github.com/Appaxaap/WalletX/releases/tag/v1.0.0)
+
 ## 💬 Contact
 
 Contact bxm.bshr.developer@gmail.com for suggestions and bug report!
