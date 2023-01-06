@@ -2,11 +2,10 @@
 
 <div align="center">
 <p align="center"> 
-	<img src="fastlane/metadata/android/en-US/images/icon.png" width=160 height=160 >
+	<img src="https://user-images.githubusercontent.com/101052048/211030998-04126a9b-f59b-43c8-9e2e-460e42d04904.png" width=160 height=160 >
 </p>
 <h1 align="center">
-WalletX![wallet_ui_logo](https://user-images.githubusercontent.com/101052048/211028295-e6c33218-3f62-4b12-a4e0-4f827bfe786f.png)
-
+WalletX	
 </h1>
 </div>
 
@@ -34,7 +33,7 @@ Future wallet for Android
 
 - Ideas for investing
 
-## Use Cases
+## ✍ Use Cases
 
 - Expense tracker
 - Track income
@@ -53,4 +52,3 @@ Download it from Github, Stable release will update soon!
 Contact bxm.bshr.developer@gmail.com for suggestions and bug report!
 
 ## 🧱 Credits
-
