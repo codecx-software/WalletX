@@ -29,11 +29,17 @@ Future wallet for Android
 ## 📖 Features
 
 ✓ Finance, E-Wallet, & Online Payment App with Complete Features & Details
+
 ✓ Advanced Security & Fraud Alerts (OTP SMS, PIN, Password, Biometric Fingerprint, Face Recognition, & Two-Factor Authentication)
+
 ✓ Home (Scan QR Code, Notification, Send Money, Request Money, Transfer to Bank & Share Payment Info)
+
 ✓ Activity / Transaction History (Filtered by All, Received, Sent)
+
 ✓ More Menu (Contacts, Customers, Banks & Cards, Payment Methods, Automatic Payments, Subscriptions, & more)
+
 ✓ Onboarding, Sign up, Sign in, Advanced Account Setup, Forgot & Reset Password
+
 ✓ Settings (Personal Info, Notification, Security, Language, Invite Friends, Help Center, About, & More)
 
 ## ✍ Use Cases
@@ -49,10 +55,15 @@ Future wallet for Android
 ## WalletX App suitable for :
 
 ✓ Online Payment App
+
 ✓ Digital Finance App
+
 ✓ Digital Wallet / E-Wallet App
+
 ✓ Mobile Banking App
+
 ✓ Money Management App
+
 ✓ Financial Technology / Fintech App
 
 ## ⬇️ Download
