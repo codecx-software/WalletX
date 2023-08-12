@@ -1,4 +1,6 @@
-# WalletX
+# Disclaimer : Unfortunetly WalletX discountinued.
+
+## WalletX
 
 <div align="center">
 <p align="center"> 
