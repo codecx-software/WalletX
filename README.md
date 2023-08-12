@@ -1,4 +1,4 @@
-# Disclaimer : Unfortunetly WalletX discountinued.
+# ⚠️Disclaimer : Unfortunetly WalletX discountinued.
 
 ## WalletX
 
