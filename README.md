@@ -1,4 +1,4 @@
-# ⚠️Disclaimer : Unfortunetly WalletX discountinued.
+# Note : WalletX back to Development stage!
 
 ## WalletX
 
