@@ -1,4 +1,4 @@
-# Note : WalletX back to Development stage!
+# Note : WalletX project moved to @wealth please check out for new updates. 
 
 ## WalletX
 
