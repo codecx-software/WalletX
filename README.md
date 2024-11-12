@@ -1,4 +1,4 @@
-# Note : WalletX project moved to @wealth please check out for new updates. 
+# Note : Walletx currently discontinued.
 
 ## WalletX
 
